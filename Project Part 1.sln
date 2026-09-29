@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35219.272
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Olive Branch Bakes (Logan Ling Phase 1)", "Project Part 1\Olive Branch Bakes (Logan Ling Phase 1).csproj", "{0B7296F7-21F5-433C-A53D-4686DD62C3D9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0B7296F7-21F5-433C-A53D-4686DD62C3D9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0B7296F7-21F5-433C-A53D-4686DD62C3D9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0B7296F7-21F5-433C-A53D-4686DD62C3D9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0B7296F7-21F5-433C-A53D-4686DD62C3D9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F6A7A895-8EA9-4E55-8CEC-70445F5EC6E4}
+	EndGlobalSection
+EndGlobal
